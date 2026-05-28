@@ -244,14 +244,17 @@ const LoveWorld = () => {
             </h1>
 
             <p className="text-gray-700 text-lg leading-8">
-              Mari Radha i don't know how can i discrable you in my words but
-              when you see in my eyes you can see how much i deeply in love you.
+              Mari Radha i can't discrable you in my words and actions but in my
+              eyes you can see how much i deeply in love you.
               <br />
               <br />
               Thank you for loving me through every distance, every late-night
               Ricky calls,every vlogs, snaps and every mood with all these
               responsibilities on your shoulder. You made every moment just a
               fairy tale for me.
+              <br />
+              <br />
+              You're my weakness
               <br />
               <br />
               No matter how far we are, my heart always finds you.
