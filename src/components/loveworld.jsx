@@ -3,24 +3,24 @@ import { motion } from "framer-motion";
 import { memories } from "../data/memories";
 
 const stickers = [
-  "/images/stickers/mm.png",
-  "/images/stickers/mm1.png",
-  "/images/stickers/mm2.png",
-  "/images/stickers/mm3.png",
-  "/images/stickers/mm4.png",
-  "/images/stickers/mm5.png",
-  "/images/stickers/mm6.png",
-  "/images/stickers/mm7.png",
-  "/images/stickers/mm8.png",
-  "/images/stickers/mm9.png",
-  "/images/stickers/mm10.png",
-  "/images/stickers/mm11.png",
-  "/images/stickers/mm12.png",
-  "/images/stickers/mm13.png",
-  "/images/stickers/mm14.png",
-  "/images/stickers/mm15.png",
-  "/images/stickers/mm16.png",
-  "/images/stickers/mm17.png",
+  "/cokenlemon/images/stickers/mm.png",
+  "/cokenlemon/images/stickers/mm1.png",
+  "/cokenlemon/images/stickers/mm2.png",
+  "/cokenlemon/images/stickers/mm3.png",
+  "/cokenlemon/images/stickers/mm4.png",
+  "/cokenlemon/images/stickers/mm5.png",
+  "/cokenlemon/images/stickers/mm6.png",
+  "/cokenlemon/images/stickers/mm7.png",
+  "/cokenlemon/images/stickers/mm8.png",
+  "/cokenlemon/images/stickers/mm9.png",
+  "/cokenlemon/images/stickers/mm10.png",
+  "/cokenlemon/images/stickers/mm11.png",
+  "/cokenlemon/images/stickers/mm12.png",
+  "/cokenlemon/images/stickers/mm13.png",
+  "/cokenlemon/images/stickers/mm14.png",
+  "/cokenlemon/images/stickers/mm15.png",
+  "/cokenlemon/images/stickers/mm16.png",
+  "/cokenlemon/images/stickers/mm17.png",
 ];
 
 const LoveWorld = () => {
@@ -46,7 +46,7 @@ const LoveWorld = () => {
     <div className="relative h-screen overflow-hidden bg-gradient-to-b from-pink-200 via-rose-200 to-fuchsia-300">
       {/* Background */}
       <img
-        src="/images/background/bg.jpg"
+        src="/cokenlemon/images/background/bg.jpg"
         alt="bg"
         className="absolute inset-0 w-full h-full object-cover opacity-30"
       />
@@ -228,13 +228,13 @@ const LoveWorld = () => {
           >
             {/* Melody Decoration */}
             <img
-              src="/images/stickers/1.png"
+              src="/cokenlemon/images/stickers/1.png"
               alt=""
               className="w-20 absolute -top-4 -left-4 rotate-[-20deg]"
             />
 
             <img
-              src="/images/stickers/2.png"
+              src="/cokenlemon/images/stickers/2.png"
               alt=""
               className="w-20 absolute -bottom-4 -right-4 rotate-[20deg]"
             />

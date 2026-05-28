@@ -31,7 +31,7 @@ const LockScreen = ({ onUnlock }) => {
     <div className="relative h-screen overflow-hidden flex items-center justify-center bg-gradient-to-b from-pink-200 via-rose-200 to-fuchsia-300 px-4">
       {/* Background Image */}
       <img
-        src="/images/background/background.jpg"
+        src="/cokenlemon/images/background/background.jpg"
         alt="background"
         className="absolute inset-0 w-full h-full object-cover opacity-30"
       />
@@ -56,7 +56,7 @@ const LockScreen = ({ onUnlock }) => {
         {/* Melody Icon */}
         <div className="flex justify-center mb-4">
           <img
-            src="/images/stickers/mm.png"
+            src="/cokenlemon/images/stickers/mm.png"
             alt="melody"
             className="w-24 h-24 rounded-full "
           />

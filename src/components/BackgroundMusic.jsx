@@ -31,7 +31,7 @@ const BackgroundMusic = () => {
   return (
     <>
       <audio ref={audioRef} loop autoPlay>
-        <source src="/music/song.mp3" type="audio/mp3" />
+        <source src="/cokenlemon/music/song.mp3" type="audio/mp3" />
       </audio>
 
       <button
